@@ -1,0 +1,601 @@
+Ward,KPI_Name,Year,Month,KPI_Value
+Stroke Unit,Hand Hygiene Compliance,2024,Jan,88.6
+Stroke Unit,Hand Hygiene Compliance,2024,Feb,99.7
+Stroke Unit,Hand Hygiene Compliance,2024,Mar,95.9
+Stroke Unit,Hand Hygiene Compliance,2024,Apr,85.1
+Stroke Unit,Hand Hygiene Compliance,2024,May,95.8
+Stroke Unit,Hand Hygiene Compliance,2024,Jun,97.7
+Stroke Unit,Hand Hygiene Compliance,2024,Jul,93.8
+Stroke Unit,Hand Hygiene Compliance,2024,Aug,100
+Stroke Unit,Hand Hygiene Compliance,2024,Sep,87.9
+Stroke Unit,Hand Hygiene Compliance,2024,Oct,85.2
+Stroke Unit,Hand Hygiene Compliance,2024,Nov,95.3
+Stroke Unit,Hand Hygiene Compliance,2024,Dec,95.7
+Stroke Unit,Falls per 1000 Bed Days,2024,Jan,3.3
+Stroke Unit,Falls per 1000 Bed Days,2024,Feb,2.8
+Stroke Unit,Falls per 1000 Bed Days,2024,Mar,4.7
+Stroke Unit,Falls per 1000 Bed Days,2024,Apr,2.1
+Stroke Unit,Falls per 1000 Bed Days,2024,May,0.4
+Stroke Unit,Falls per 1000 Bed Days,2024,Jun,3.6
+Stroke Unit,Falls per 1000 Bed Days,2024,Jul,3.3
+Stroke Unit,Falls per 1000 Bed Days,2024,Aug,0.6
+Stroke Unit,Falls per 1000 Bed Days,2024,Sep,3.5
+Stroke Unit,Falls per 1000 Bed Days,2024,Oct,2
+Stroke Unit,Falls per 1000 Bed Days,2024,Nov,2.8
+Stroke Unit,Falls per 1000 Bed Days,2024,Dec,0.5
+Stroke Unit,Record Keeping Compliance,2024,Jan,92.4
+Stroke Unit,Record Keeping Compliance,2024,Feb,93.6
+Stroke Unit,Record Keeping Compliance,2024,Mar,91.5
+Stroke Unit,Record Keeping Compliance,2024,Apr,88.1
+Stroke Unit,Record Keeping Compliance,2024,May,87.5
+Stroke Unit,Record Keeping Compliance,2024,Jun,100
+Stroke Unit,Record Keeping Compliance,2024,Jul,91.3
+Stroke Unit,Record Keeping Compliance,2024,Aug,85.5
+Stroke Unit,Record Keeping Compliance,2024,Sep,88.5
+Stroke Unit,Record Keeping Compliance,2024,Oct,90.7
+Stroke Unit,Record Keeping Compliance,2024,Nov,99.7
+Stroke Unit,Record Keeping Compliance,2024,Dec,88
+Stroke Unit,Violence and Aggression Incidents,2024,Jan,12.6
+Stroke Unit,Violence and Aggression Incidents,2024,Feb,17.1
+Stroke Unit,Violence and Aggression Incidents,2024,Mar,1.9
+Stroke Unit,Violence and Aggression Incidents,2024,Apr,3.5
+Stroke Unit,Violence and Aggression Incidents,2024,May,11.3
+Stroke Unit,Violence and Aggression Incidents,2024,Jun,18.7
+Stroke Unit,Violence and Aggression Incidents,2024,Jul,1
+Stroke Unit,Violence and Aggression Incidents,2024,Aug,11.5
+Stroke Unit,Violence and Aggression Incidents,2024,Sep,21.7
+Stroke Unit,Violence and Aggression Incidents,2024,Oct,5.4
+Stroke Unit,Violence and Aggression Incidents,2024,Nov,23.8
+Stroke Unit,Violence and Aggression Incidents,2024,Dec,15.8
+Stroke Unit,Concerns Logged,2024,Jan,23.4
+Stroke Unit,Concerns Logged,2024,Feb,22.1
+Stroke Unit,Concerns Logged,2024,Mar,29.2
+Stroke Unit,Concerns Logged,2024,Apr,29.2
+Stroke Unit,Concerns Logged,2024,May,21.6
+Stroke Unit,Concerns Logged,2024,Jun,27.9
+Stroke Unit,Concerns Logged,2024,Jul,30.9
+Stroke Unit,Concerns Logged,2024,Aug,20.1
+Stroke Unit,Concerns Logged,2024,Sep,30
+Stroke Unit,Concerns Logged,2024,Oct,25.4
+Stroke Unit,Concerns Logged,2024,Nov,26.7
+Stroke Unit,Concerns Logged,2024,Dec,31.3
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Jan,97.1
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Feb,95.7
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Mar,91.6
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Apr,90.6
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,May,99.3
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Jun,88
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Jul,93.4
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Aug,85.2
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Sep,96.7
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Oct,93.4
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Nov,98.6
+Emergency Assessment Unit [EAU],Hand Hygiene Compliance,2024,Dec,95.9
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Jan,2.4
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Feb,4.7
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Mar,1.4
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Apr,3.2
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,May,1.2
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Jun,1.4
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Jul,3.3
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Aug,0.2
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Sep,5.6
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Oct,0.3
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Nov,1.6
+Emergency Assessment Unit [EAU],Falls per 1000 Bed Days,2024,Dec,2.7
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Jan,85.7
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Feb,97.7
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Mar,88.6
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Apr,95.7
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,May,96.8
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Jun,89.6
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Jul,94.1
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Aug,98.3
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Sep,91
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Oct,99.3
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Nov,93.4
+Emergency Assessment Unit [EAU],Record Keeping Compliance,2024,Dec,85.2
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Jan,19.3
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Feb,1.1
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Mar,20.2
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Apr,14.5
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,May,22.9
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Jun,23.5
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Jul,8.6
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Aug,20.4
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Sep,5
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Oct,0.9
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Nov,13.9
+Emergency Assessment Unit [EAU],Violence and Aggression Incidents,2024,Dec,20.6
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Jan,25.2
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Feb,24.7
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Mar,31.2
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Apr,24.5
+Emergency Assessment Unit [EAU],Concerns Logged,2024,May,18.4
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Jun,31.1
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Jul,26.5
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Aug,23.7
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Sep,31.9
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Oct,25.6
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Nov,19.4
+Emergency Assessment Unit [EAU],Concerns Logged,2024,Dec,34.5
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Jan,97
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Feb,92.9
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Mar,87.7
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Apr,89.7
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,May,98.4
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Jun,89
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Jul,91.5
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Aug,93.6
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Sep,90.5
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Oct,92.3
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Nov,99.8
+Short Stay Unit [SSU],Hand Hygiene Compliance,2024,Dec,91
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Jan,4.6
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Feb,2.9
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Mar,1.6
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Apr,3.2
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,May,0.3
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Jun,2.1
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Jul,4.4
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Aug,3.8
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Sep,0.8
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Oct,3.7
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Nov,5.7
+Short Stay Unit [SSU],Falls per 1000 Bed Days,2024,Dec,2.1
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Jan,91.4
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Feb,85.5
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Mar,86.5
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Apr,86.5
+Short Stay Unit [SSU],Record Keeping Compliance,2024,May,94.5
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Jun,91.1
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Jul,87.9
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Aug,86.2
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Sep,88.5
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Oct,93.6
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Nov,99.1
+Short Stay Unit [SSU],Record Keeping Compliance,2024,Dec,97.2
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Jan,22.2
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Feb,8.6
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Mar,20.9
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Apr,18.2
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,May,7.9
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Jun,22.9
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Jul,23.9
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Aug,7.8
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Sep,3.2
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Oct,21.1
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Nov,12.7
+Short Stay Unit [SSU],Violence and Aggression Incidents,2024,Dec,4.6
+Short Stay Unit [SSU],Concerns Logged,2024,Jan,28.2
+Short Stay Unit [SSU],Concerns Logged,2024,Feb,28.7
+Short Stay Unit [SSU],Concerns Logged,2024,Mar,25.9
+Short Stay Unit [SSU],Concerns Logged,2024,Apr,27.9
+Short Stay Unit [SSU],Concerns Logged,2024,May,19.5
+Short Stay Unit [SSU],Concerns Logged,2024,Jun,25.1
+Short Stay Unit [SSU],Concerns Logged,2024,Jul,31.9
+Short Stay Unit [SSU],Concerns Logged,2024,Aug,24.2
+Short Stay Unit [SSU],Concerns Logged,2024,Sep,34.7
+Short Stay Unit [SSU],Concerns Logged,2024,Oct,26.6
+Short Stay Unit [SSU],Concerns Logged,2024,Nov,15.4
+Short Stay Unit [SSU],Concerns Logged,2024,Dec,23.1
+Ward 11,Hand Hygiene Compliance,2024,Jan,92.5
+Ward 11,Hand Hygiene Compliance,2024,Feb,94.7
+Ward 11,Hand Hygiene Compliance,2024,Mar,96
+Ward 11,Hand Hygiene Compliance,2024,Apr,85.2
+Ward 11,Hand Hygiene Compliance,2024,May,90.3
+Ward 11,Hand Hygiene Compliance,2024,Jun,91.6
+Ward 11,Hand Hygiene Compliance,2024,Jul,90.2
+Ward 11,Hand Hygiene Compliance,2024,Aug,88.4
+Ward 11,Hand Hygiene Compliance,2024,Sep,96.7
+Ward 11,Hand Hygiene Compliance,2024,Oct,96.6
+Ward 11,Hand Hygiene Compliance,2024,Nov,95
+Ward 11,Hand Hygiene Compliance,2024,Dec,89.9
+Ward 11,Falls per 1000 Bed Days,2024,Jan,1.7
+Ward 11,Falls per 1000 Bed Days,2024,Feb,1.1
+Ward 11,Falls per 1000 Bed Days,2024,Mar,5
+Ward 11,Falls per 1000 Bed Days,2024,Apr,5.9
+Ward 11,Falls per 1000 Bed Days,2024,May,1.8
+Ward 11,Falls per 1000 Bed Days,2024,Jun,4.7
+Ward 11,Falls per 1000 Bed Days,2024,Jul,3.2
+Ward 11,Falls per 1000 Bed Days,2024,Aug,1
+Ward 11,Falls per 1000 Bed Days,2024,Sep,2.8
+Ward 11,Falls per 1000 Bed Days,2024,Oct,5.6
+Ward 11,Falls per 1000 Bed Days,2024,Nov,4.7
+Ward 11,Falls per 1000 Bed Days,2024,Dec,5.4
+Ward 11,Record Keeping Compliance,2024,Jan,87.2
+Ward 11,Record Keeping Compliance,2024,Feb,86.8
+Ward 11,Record Keeping Compliance,2024,Mar,94.8
+Ward 11,Record Keeping Compliance,2024,Apr,94.8
+Ward 11,Record Keeping Compliance,2024,May,98
+Ward 11,Record Keeping Compliance,2024,Jun,96.2
+Ward 11,Record Keeping Compliance,2024,Jul,97.4
+Ward 11,Record Keeping Compliance,2024,Aug,85.5
+Ward 11,Record Keeping Compliance,2024,Sep,93.9
+Ward 11,Record Keeping Compliance,2024,Oct,90.8
+Ward 11,Record Keeping Compliance,2024,Nov,86.6
+Ward 11,Record Keeping Compliance,2024,Dec,97.3
+Ward 11,Violence and Aggression Incidents,2024,Jan,9.2
+Ward 11,Violence and Aggression Incidents,2024,Feb,21.3
+Ward 11,Violence and Aggression Incidents,2024,Mar,24.2
+Ward 11,Violence and Aggression Incidents,2024,Apr,7.6
+Ward 11,Violence and Aggression Incidents,2024,May,11.3
+Ward 11,Violence and Aggression Incidents,2024,Jun,10.4
+Ward 11,Violence and Aggression Incidents,2024,Jul,3.3
+Ward 11,Violence and Aggression Incidents,2024,Aug,6.9
+Ward 11,Violence and Aggression Incidents,2024,Sep,18.7
+Ward 11,Violence and Aggression Incidents,2024,Oct,20.5
+Ward 11,Violence and Aggression Incidents,2024,Nov,15.8
+Ward 11,Violence and Aggression Incidents,2024,Dec,11.1
+Ward 11,Concerns Logged,2024,Jan,18.5
+Ward 11,Concerns Logged,2024,Feb,20.2
+Ward 11,Concerns Logged,2024,Mar,15.1
+Ward 11,Concerns Logged,2024,Apr,16.5
+Ward 11,Concerns Logged,2024,May,33.2
+Ward 11,Concerns Logged,2024,Jun,20
+Ward 11,Concerns Logged,2024,Jul,33.7
+Ward 11,Concerns Logged,2024,Aug,16.3
+Ward 11,Concerns Logged,2024,Sep,29.1
+Ward 11,Concerns Logged,2024,Oct,15.5
+Ward 11,Concerns Logged,2024,Nov,19.2
+Ward 11,Concerns Logged,2024,Dec,19.9
+Ward 12,Hand Hygiene Compliance,2024,Jan,90.8
+Ward 12,Hand Hygiene Compliance,2024,Feb,88.6
+Ward 12,Hand Hygiene Compliance,2024,Mar,99.4
+Ward 12,Hand Hygiene Compliance,2024,Apr,85.1
+Ward 12,Hand Hygiene Compliance,2024,May,95.1
+Ward 12,Hand Hygiene Compliance,2024,Jun,99.5
+Ward 12,Hand Hygiene Compliance,2024,Jul,93.9
+Ward 12,Hand Hygiene Compliance,2024,Aug,98.4
+Ward 12,Hand Hygiene Compliance,2024,Sep,95.8
+Ward 12,Hand Hygiene Compliance,2024,Oct,98.2
+Ward 12,Hand Hygiene Compliance,2024,Nov,85.3
+Ward 12,Hand Hygiene Compliance,2024,Dec,87.5
+Ward 12,Falls per 1000 Bed Days,2024,Jan,2.3
+Ward 12,Falls per 1000 Bed Days,2024,Feb,6
+Ward 12,Falls per 1000 Bed Days,2024,Mar,5.5
+Ward 12,Falls per 1000 Bed Days,2024,Apr,3.1
+Ward 12,Falls per 1000 Bed Days,2024,May,1.1
+Ward 12,Falls per 1000 Bed Days,2024,Jun,2
+Ward 12,Falls per 1000 Bed Days,2024,Jul,5.4
+Ward 12,Falls per 1000 Bed Days,2024,Aug,1.5
+Ward 12,Falls per 1000 Bed Days,2024,Sep,1.8
+Ward 12,Falls per 1000 Bed Days,2024,Oct,3.9
+Ward 12,Falls per 1000 Bed Days,2024,Nov,2
+Ward 12,Falls per 1000 Bed Days,2024,Dec,3.2
+Ward 12,Record Keeping Compliance,2024,Jan,95.4
+Ward 12,Record Keeping Compliance,2024,Feb,97.2
+Ward 12,Record Keeping Compliance,2024,Mar,86.9
+Ward 12,Record Keeping Compliance,2024,Apr,99.6
+Ward 12,Record Keeping Compliance,2024,May,92.9
+Ward 12,Record Keeping Compliance,2024,Jun,89.3
+Ward 12,Record Keeping Compliance,2024,Jul,91.2
+Ward 12,Record Keeping Compliance,2024,Aug,92.5
+Ward 12,Record Keeping Compliance,2024,Sep,90.5
+Ward 12,Record Keeping Compliance,2024,Oct,99.5
+Ward 12,Record Keeping Compliance,2024,Nov,92.4
+Ward 12,Record Keeping Compliance,2024,Dec,87
+Ward 12,Violence and Aggression Incidents,2024,Jan,2.5
+Ward 12,Violence and Aggression Incidents,2024,Feb,4.4
+Ward 12,Violence and Aggression Incidents,2024,Mar,16.9
+Ward 12,Violence and Aggression Incidents,2024,Apr,19.3
+Ward 12,Violence and Aggression Incidents,2024,May,7.4
+Ward 12,Violence and Aggression Incidents,2024,Jun,16.8
+Ward 12,Violence and Aggression Incidents,2024,Jul,24.3
+Ward 12,Violence and Aggression Incidents,2024,Aug,17.3
+Ward 12,Violence and Aggression Incidents,2024,Sep,17.6
+Ward 12,Violence and Aggression Incidents,2024,Oct,9.7
+Ward 12,Violence and Aggression Incidents,2024,Nov,2.4
+Ward 12,Violence and Aggression Incidents,2024,Dec,18.2
+Ward 12,Concerns Logged,2024,Jan,18.9
+Ward 12,Concerns Logged,2024,Feb,33.1
+Ward 12,Concerns Logged,2024,Mar,33
+Ward 12,Concerns Logged,2024,Apr,34.6
+Ward 12,Concerns Logged,2024,May,30.9
+Ward 12,Concerns Logged,2024,Jun,16.2
+Ward 12,Concerns Logged,2024,Jul,33.5
+Ward 12,Concerns Logged,2024,Aug,28.5
+Ward 12,Concerns Logged,2024,Sep,29.3
+Ward 12,Concerns Logged,2024,Oct,30.2
+Ward 12,Concerns Logged,2024,Nov,30.3
+Ward 12,Concerns Logged,2024,Dec,22.9
+Ward 14,Hand Hygiene Compliance,2024,Jan,97.5
+Ward 14,Hand Hygiene Compliance,2024,Feb,94.3
+Ward 14,Hand Hygiene Compliance,2024,Mar,85.8
+Ward 14,Hand Hygiene Compliance,2024,Apr,93.5
+Ward 14,Hand Hygiene Compliance,2024,May,87
+Ward 14,Hand Hygiene Compliance,2024,Jun,98.8
+Ward 14,Hand Hygiene Compliance,2024,Jul,95.5
+Ward 14,Hand Hygiene Compliance,2024,Aug,88.9
+Ward 14,Hand Hygiene Compliance,2024,Sep,90.1
+Ward 14,Hand Hygiene Compliance,2024,Oct,97.3
+Ward 14,Hand Hygiene Compliance,2024,Nov,91.1
+Ward 14,Hand Hygiene Compliance,2024,Dec,97.4
+Ward 14,Falls per 1000 Bed Days,2024,Jan,2.6
+Ward 14,Falls per 1000 Bed Days,2024,Feb,5.9
+Ward 14,Falls per 1000 Bed Days,2024,Mar,5.3
+Ward 14,Falls per 1000 Bed Days,2024,Apr,2.3
+Ward 14,Falls per 1000 Bed Days,2024,May,5.2
+Ward 14,Falls per 1000 Bed Days,2024,Jun,4.9
+Ward 14,Falls per 1000 Bed Days,2024,Jul,1.1
+Ward 14,Falls per 1000 Bed Days,2024,Aug,1.4
+Ward 14,Falls per 1000 Bed Days,2024,Sep,5.4
+Ward 14,Falls per 1000 Bed Days,2024,Oct,1.8
+Ward 14,Falls per 1000 Bed Days,2024,Nov,0.2
+Ward 14,Falls per 1000 Bed Days,2024,Dec,1.4
+Ward 14,Record Keeping Compliance,2024,Jan,95.6
+Ward 14,Record Keeping Compliance,2024,Feb,91.4
+Ward 14,Record Keeping Compliance,2024,Mar,88.2
+Ward 14,Record Keeping Compliance,2024,Apr,89.9
+Ward 14,Record Keeping Compliance,2024,May,85
+Ward 14,Record Keeping Compliance,2024,Jun,97.9
+Ward 14,Record Keeping Compliance,2024,Jul,86.9
+Ward 14,Record Keeping Compliance,2024,Aug,91.2
+Ward 14,Record Keeping Compliance,2024,Sep,98.8
+Ward 14,Record Keeping Compliance,2024,Oct,99.1
+Ward 14,Record Keeping Compliance,2024,Nov,92.1
+Ward 14,Record Keeping Compliance,2024,Dec,88.2
+Ward 14,Violence and Aggression Incidents,2024,Jan,19.3
+Ward 14,Violence and Aggression Incidents,2024,Feb,17.3
+Ward 14,Violence and Aggression Incidents,2024,Mar,16.7
+Ward 14,Violence and Aggression Incidents,2024,Apr,16.6
+Ward 14,Violence and Aggression Incidents,2024,May,7
+Ward 14,Violence and Aggression Incidents,2024,Jun,18
+Ward 14,Violence and Aggression Incidents,2024,Jul,7.4
+Ward 14,Violence and Aggression Incidents,2024,Aug,3.6
+Ward 14,Violence and Aggression Incidents,2024,Sep,24.1
+Ward 14,Violence and Aggression Incidents,2024,Oct,14.9
+Ward 14,Violence and Aggression Incidents,2024,Nov,19.7
+Ward 14,Violence and Aggression Incidents,2024,Dec,16.6
+Ward 14,Concerns Logged,2024,Jan,34
+Ward 14,Concerns Logged,2024,Feb,29.6
+Ward 14,Concerns Logged,2024,Mar,18.2
+Ward 14,Concerns Logged,2024,Apr,15.3
+Ward 14,Concerns Logged,2024,May,20.8
+Ward 14,Concerns Logged,2024,Jun,28.3
+Ward 14,Concerns Logged,2024,Jul,27.8
+Ward 14,Concerns Logged,2024,Aug,27.7
+Ward 14,Concerns Logged,2024,Sep,16.5
+Ward 14,Concerns Logged,2024,Oct,23
+Ward 14,Concerns Logged,2024,Nov,20.7
+Ward 14,Concerns Logged,2024,Dec,19.4
+Ward 14B,Hand Hygiene Compliance,2024,Jan,89.9
+Ward 14B,Hand Hygiene Compliance,2024,Feb,90.9
+Ward 14B,Hand Hygiene Compliance,2024,Mar,87.2
+Ward 14B,Hand Hygiene Compliance,2024,Apr,90.5
+Ward 14B,Hand Hygiene Compliance,2024,May,90.2
+Ward 14B,Hand Hygiene Compliance,2024,Jun,87
+Ward 14B,Hand Hygiene Compliance,2024,Jul,97.5
+Ward 14B,Hand Hygiene Compliance,2024,Aug,87.2
+Ward 14B,Hand Hygiene Compliance,2024,Sep,96.3
+Ward 14B,Hand Hygiene Compliance,2024,Oct,88.1
+Ward 14B,Hand Hygiene Compliance,2024,Nov,92.8
+Ward 14B,Hand Hygiene Compliance,2024,Dec,89.3
+Ward 14B,Falls per 1000 Bed Days,2024,Jan,2.7
+Ward 14B,Falls per 1000 Bed Days,2024,Feb,2.7
+Ward 14B,Falls per 1000 Bed Days,2024,Mar,3.4
+Ward 14B,Falls per 1000 Bed Days,2024,Apr,3.8
+Ward 14B,Falls per 1000 Bed Days,2024,May,3
+Ward 14B,Falls per 1000 Bed Days,2024,Jun,0.4
+Ward 14B,Falls per 1000 Bed Days,2024,Jul,4.3
+Ward 14B,Falls per 1000 Bed Days,2024,Aug,0.9
+Ward 14B,Falls per 1000 Bed Days,2024,Sep,2.9
+Ward 14B,Falls per 1000 Bed Days,2024,Oct,3.7
+Ward 14B,Falls per 1000 Bed Days,2024,Nov,3.9
+Ward 14B,Falls per 1000 Bed Days,2024,Dec,6
+Ward 14B,Record Keeping Compliance,2024,Jan,99.1
+Ward 14B,Record Keeping Compliance,2024,Feb,89.7
+Ward 14B,Record Keeping Compliance,2024,Mar,88.7
+Ward 14B,Record Keeping Compliance,2024,Apr,97
+Ward 14B,Record Keeping Compliance,2024,May,98.3
+Ward 14B,Record Keeping Compliance,2024,Jun,96.5
+Ward 14B,Record Keeping Compliance,2024,Jul,86.3
+Ward 14B,Record Keeping Compliance,2024,Aug,89
+Ward 14B,Record Keeping Compliance,2024,Sep,85.7
+Ward 14B,Record Keeping Compliance,2024,Oct,97.3
+Ward 14B,Record Keeping Compliance,2024,Nov,96.3
+Ward 14B,Record Keeping Compliance,2024,Dec,90.2
+Ward 14B,Violence and Aggression Incidents,2024,Jan,0.7
+Ward 14B,Violence and Aggression Incidents,2024,Feb,24.8
+Ward 14B,Violence and Aggression Incidents,2024,Mar,0.9
+Ward 14B,Violence and Aggression Incidents,2024,Apr,0.7
+Ward 14B,Violence and Aggression Incidents,2024,May,2.2
+Ward 14B,Violence and Aggression Incidents,2024,Jun,4.8
+Ward 14B,Violence and Aggression Incidents,2024,Jul,12.1
+Ward 14B,Violence and Aggression Incidents,2024,Aug,23.2
+Ward 14B,Violence and Aggression Incidents,2024,Sep,24.1
+Ward 14B,Violence and Aggression Incidents,2024,Oct,14.1
+Ward 14B,Violence and Aggression Incidents,2024,Nov,10.6
+Ward 14B,Violence and Aggression Incidents,2024,Dec,4.4
+Ward 14B,Concerns Logged,2024,Jan,32
+Ward 14B,Concerns Logged,2024,Feb,24.3
+Ward 14B,Concerns Logged,2024,Mar,34.1
+Ward 14B,Concerns Logged,2024,Apr,34.1
+Ward 14B,Concerns Logged,2024,May,33.1
+Ward 14B,Concerns Logged,2024,Jun,27.6
+Ward 14B,Concerns Logged,2024,Jul,27.5
+Ward 14B,Concerns Logged,2024,Aug,28.7
+Ward 14B,Concerns Logged,2024,Sep,16.1
+Ward 14B,Concerns Logged,2024,Oct,32
+Ward 14B,Concerns Logged,2024,Nov,22.4
+Ward 14B,Concerns Logged,2024,Dec,17.7
+Ward 31,Hand Hygiene Compliance,2024,Jan,93
+Ward 31,Hand Hygiene Compliance,2024,Feb,95.2
+Ward 31,Hand Hygiene Compliance,2024,Mar,93
+Ward 31,Hand Hygiene Compliance,2024,Apr,85.8
+Ward 31,Hand Hygiene Compliance,2024,May,88.2
+Ward 31,Hand Hygiene Compliance,2024,Jun,89.2
+Ward 31,Hand Hygiene Compliance,2024,Jul,90
+Ward 31,Hand Hygiene Compliance,2024,Aug,92
+Ward 31,Hand Hygiene Compliance,2024,Sep,95.6
+Ward 31,Hand Hygiene Compliance,2024,Oct,90.1
+Ward 31,Hand Hygiene Compliance,2024,Nov,99.3
+Ward 31,Hand Hygiene Compliance,2024,Dec,91.4
+Ward 31,Falls per 1000 Bed Days,2024,Jan,2.3
+Ward 31,Falls per 1000 Bed Days,2024,Feb,2.6
+Ward 31,Falls per 1000 Bed Days,2024,Mar,1.6
+Ward 31,Falls per 1000 Bed Days,2024,Apr,2.5
+Ward 31,Falls per 1000 Bed Days,2024,May,4.7
+Ward 31,Falls per 1000 Bed Days,2024,Jun,0.2
+Ward 31,Falls per 1000 Bed Days,2024,Jul,3
+Ward 31,Falls per 1000 Bed Days,2024,Aug,3.5
+Ward 31,Falls per 1000 Bed Days,2024,Sep,1.3
+Ward 31,Falls per 1000 Bed Days,2024,Oct,0.2
+Ward 31,Falls per 1000 Bed Days,2024,Nov,1.3
+Ward 31,Falls per 1000 Bed Days,2024,Dec,5.1
+Ward 31,Record Keeping Compliance,2024,Jan,88.6
+Ward 31,Record Keeping Compliance,2024,Feb,99.4
+Ward 31,Record Keeping Compliance,2024,Mar,92
+Ward 31,Record Keeping Compliance,2024,Apr,94.1
+Ward 31,Record Keeping Compliance,2024,May,93.7
+Ward 31,Record Keeping Compliance,2024,Jun,97.2
+Ward 31,Record Keeping Compliance,2024,Jul,92.8
+Ward 31,Record Keeping Compliance,2024,Aug,94.8
+Ward 31,Record Keeping Compliance,2024,Sep,98.9
+Ward 31,Record Keeping Compliance,2024,Oct,91.7
+Ward 31,Record Keeping Compliance,2024,Nov,92
+Ward 31,Record Keeping Compliance,2024,Dec,92.8
+Ward 31,Violence and Aggression Incidents,2024,Jan,3.4
+Ward 31,Violence and Aggression Incidents,2024,Feb,13.1
+Ward 31,Violence and Aggression Incidents,2024,Mar,11.9
+Ward 31,Violence and Aggression Incidents,2024,Apr,0.2
+Ward 31,Violence and Aggression Incidents,2024,May,1.1
+Ward 31,Violence and Aggression Incidents,2024,Jun,8.8
+Ward 31,Violence and Aggression Incidents,2024,Jul,13.5
+Ward 31,Violence and Aggression Incidents,2024,Aug,2.1
+Ward 31,Violence and Aggression Incidents,2024,Sep,1.6
+Ward 31,Violence and Aggression Incidents,2024,Oct,7.8
+Ward 31,Violence and Aggression Incidents,2024,Nov,3.6
+Ward 31,Violence and Aggression Incidents,2024,Dec,10
+Ward 31,Concerns Logged,2024,Jan,19.8
+Ward 31,Concerns Logged,2024,Feb,25
+Ward 31,Concerns Logged,2024,Mar,28.7
+Ward 31,Concerns Logged,2024,Apr,33.5
+Ward 31,Concerns Logged,2024,May,28.8
+Ward 31,Concerns Logged,2024,Jun,17.7
+Ward 31,Concerns Logged,2024,Jul,24
+Ward 31,Concerns Logged,2024,Aug,32.8
+Ward 31,Concerns Logged,2024,Sep,20.5
+Ward 31,Concerns Logged,2024,Oct,23.3
+Ward 31,Concerns Logged,2024,Nov,30.1
+Ward 31,Concerns Logged,2024,Dec,30.8
+Ward 52,Hand Hygiene Compliance,2024,Jan,90.6
+Ward 52,Hand Hygiene Compliance,2024,Feb,92.5
+Ward 52,Hand Hygiene Compliance,2024,Mar,99.6
+Ward 52,Hand Hygiene Compliance,2024,Apr,88
+Ward 52,Hand Hygiene Compliance,2024,May,93.4
+Ward 52,Hand Hygiene Compliance,2024,Jun,87.4
+Ward 52,Hand Hygiene Compliance,2024,Jul,91.6
+Ward 52,Hand Hygiene Compliance,2024,Aug,89.4
+Ward 52,Hand Hygiene Compliance,2024,Sep,91.3
+Ward 52,Hand Hygiene Compliance,2024,Oct,88.3
+Ward 52,Hand Hygiene Compliance,2024,Nov,94.1
+Ward 52,Hand Hygiene Compliance,2024,Dec,86.1
+Ward 52,Falls per 1000 Bed Days,2024,Jan,2.3
+Ward 52,Falls per 1000 Bed Days,2024,Feb,1.9
+Ward 52,Falls per 1000 Bed Days,2024,Mar,5.9
+Ward 52,Falls per 1000 Bed Days,2024,Apr,5.2
+Ward 52,Falls per 1000 Bed Days,2024,May,0.5
+Ward 52,Falls per 1000 Bed Days,2024,Jun,1.5
+Ward 52,Falls per 1000 Bed Days,2024,Jul,5.6
+Ward 52,Falls per 1000 Bed Days,2024,Aug,0.2
+Ward 52,Falls per 1000 Bed Days,2024,Sep,5.2
+Ward 52,Falls per 1000 Bed Days,2024,Oct,0.9
+Ward 52,Falls per 1000 Bed Days,2024,Nov,5.3
+Ward 52,Falls per 1000 Bed Days,2024,Dec,1.1
+Ward 52,Record Keeping Compliance,2024,Jan,99.8
+Ward 52,Record Keeping Compliance,2024,Feb,89.7
+Ward 52,Record Keeping Compliance,2024,Mar,97.3
+Ward 52,Record Keeping Compliance,2024,Apr,96.8
+Ward 52,Record Keeping Compliance,2024,May,97.2
+Ward 52,Record Keeping Compliance,2024,Jun,92.6
+Ward 52,Record Keeping Compliance,2024,Jul,91.1
+Ward 52,Record Keeping Compliance,2024,Aug,88.1
+Ward 52,Record Keeping Compliance,2024,Sep,89.4
+Ward 52,Record Keeping Compliance,2024,Oct,97.8
+Ward 52,Record Keeping Compliance,2024,Nov,98.5
+Ward 52,Record Keeping Compliance,2024,Dec,95.5
+Ward 52,Violence and Aggression Incidents,2024,Jan,0.9
+Ward 52,Violence and Aggression Incidents,2024,Feb,7.1
+Ward 52,Violence and Aggression Incidents,2024,Mar,9.9
+Ward 52,Violence and Aggression Incidents,2024,Apr,21.6
+Ward 52,Violence and Aggression Incidents,2024,May,14.1
+Ward 52,Violence and Aggression Incidents,2024,Jun,24.8
+Ward 52,Violence and Aggression Incidents,2024,Jul,21.7
+Ward 52,Violence and Aggression Incidents,2024,Aug,16
+Ward 52,Violence and Aggression Incidents,2024,Sep,10.6
+Ward 52,Violence and Aggression Incidents,2024,Oct,21.9
+Ward 52,Violence and Aggression Incidents,2024,Nov,7.6
+Ward 52,Violence and Aggression Incidents,2024,Dec,9.1
+Ward 52,Concerns Logged,2024,Jan,22.5
+Ward 52,Concerns Logged,2024,Feb,22.5
+Ward 52,Concerns Logged,2024,Mar,25.9
+Ward 52,Concerns Logged,2024,Apr,32.9
+Ward 52,Concerns Logged,2024,May,16.2
+Ward 52,Concerns Logged,2024,Jun,15.3
+Ward 52,Concerns Logged,2024,Jul,30.7
+Ward 52,Concerns Logged,2024,Aug,28.9
+Ward 52,Concerns Logged,2024,Sep,32.9
+Ward 52,Concerns Logged,2024,Oct,19.1
+Ward 52,Concerns Logged,2024,Nov,23.5
+Ward 52,Concerns Logged,2024,Dec,28.5
+Ward Sconce,Hand Hygiene Compliance,2024,Jan,87.7
+Ward Sconce,Hand Hygiene Compliance,2024,Feb,90.7
+Ward Sconce,Hand Hygiene Compliance,2024,Mar,94.3
+Ward Sconce,Hand Hygiene Compliance,2024,Apr,91
+Ward Sconce,Hand Hygiene Compliance,2024,May,86.5
+Ward Sconce,Hand Hygiene Compliance,2024,Jun,91.4
+Ward Sconce,Hand Hygiene Compliance,2024,Jul,94.6
+Ward Sconce,Hand Hygiene Compliance,2024,Aug,88.9
+Ward Sconce,Hand Hygiene Compliance,2024,Sep,86.5
+Ward Sconce,Hand Hygiene Compliance,2024,Oct,91.5
+Ward Sconce,Hand Hygiene Compliance,2024,Nov,97.2
+Ward Sconce,Hand Hygiene Compliance,2024,Dec,88.5
+Ward Sconce,Falls per 1000 Bed Days,2024,Jan,5.1
+Ward Sconce,Falls per 1000 Bed Days,2024,Feb,4.3
+Ward Sconce,Falls per 1000 Bed Days,2024,Mar,3.6
+Ward Sconce,Falls per 1000 Bed Days,2024,Apr,3.6
+Ward Sconce,Falls per 1000 Bed Days,2024,May,4.4
+Ward Sconce,Falls per 1000 Bed Days,2024,Jun,3.8
+Ward Sconce,Falls per 1000 Bed Days,2024,Jul,1.8
+Ward Sconce,Falls per 1000 Bed Days,2024,Aug,2.9
+Ward Sconce,Falls per 1000 Bed Days,2024,Sep,2
+Ward Sconce,Falls per 1000 Bed Days,2024,Oct,4.1
+Ward Sconce,Falls per 1000 Bed Days,2024,Nov,1.1
+Ward Sconce,Falls per 1000 Bed Days,2024,Dec,4.8
+Ward Sconce,Record Keeping Compliance,2024,Jan,91.4
+Ward Sconce,Record Keeping Compliance,2024,Feb,86.2
+Ward Sconce,Record Keeping Compliance,2024,Mar,89.9
+Ward Sconce,Record Keeping Compliance,2024,Apr,97.7
+Ward Sconce,Record Keeping Compliance,2024,May,91.1
+Ward Sconce,Record Keeping Compliance,2024,Jun,88.1
+Ward Sconce,Record Keeping Compliance,2024,Jul,93
+Ward Sconce,Record Keeping Compliance,2024,Aug,90.5
+Ward Sconce,Record Keeping Compliance,2024,Sep,94.6
+Ward Sconce,Record Keeping Compliance,2024,Oct,93.7
+Ward Sconce,Record Keeping Compliance,2024,Nov,93.6
+Ward Sconce,Record Keeping Compliance,2024,Dec,100
+Ward Sconce,Violence and Aggression Incidents,2024,Jan,0.9
+Ward Sconce,Violence and Aggression Incidents,2024,Feb,22.1
+Ward Sconce,Violence and Aggression Incidents,2024,Mar,2.5
+Ward Sconce,Violence and Aggression Incidents,2024,Apr,4.9
+Ward Sconce,Violence and Aggression Incidents,2024,May,10.9
+Ward Sconce,Violence and Aggression Incidents,2024,Jun,7.7
+Ward Sconce,Violence and Aggression Incidents,2024,Jul,12.3
+Ward Sconce,Violence and Aggression Incidents,2024,Aug,0.5
+Ward Sconce,Violence and Aggression Incidents,2024,Sep,15.8
+Ward Sconce,Violence and Aggression Incidents,2024,Oct,23
+Ward Sconce,Violence and Aggression Incidents,2024,Nov,4.2
+Ward Sconce,Violence and Aggression Incidents,2024,Dec,17.1
+Ward Sconce,Concerns Logged,2024,Jan,15.4
+Ward Sconce,Concerns Logged,2024,Feb,27.9
+Ward Sconce,Concerns Logged,2024,Mar,31
+Ward Sconce,Concerns Logged,2024,Apr,20.6
+Ward Sconce,Concerns Logged,2024,May,22.4
+Ward Sconce,Concerns Logged,2024,Jun,32.6
+Ward Sconce,Concerns Logged,2024,Jul,33.6
+Ward Sconce,Concerns Logged,2024,Aug,18
+Ward Sconce,Concerns Logged,2024,Sep,15.4
+Ward Sconce,Concerns Logged,2024,Oct,27.9
+Ward Sconce,Concerns Logged,2024,Nov,17.1
+Ward Sconce,Concerns Logged,2024,Dec,18.3
