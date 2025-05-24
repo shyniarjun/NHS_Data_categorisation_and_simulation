@@ -2,7 +2,7 @@
 
 This project originated within the NHS Exemplar Accreditation programme, where performance across 35 wards is assessed using KPIs under four pillars: Quality, Efficiency, Patient Experience, and Staff Experience.
 
-### 🔍 Problem Identified
+### Problem Identified
 
 - Each ward uses a standalone Excel template with inconsistent layouts and KPI naming
 - Colour-based performance bands (Gold/Silver/Bronze/White) were manually or partially formula-driven, making them non-transparent and hard to audit
@@ -10,11 +10,11 @@ This project originated within the NHS Exemplar Accreditation programme, where p
 - Some thresholds required manual interpretation (e.g. \"5–10 more than comparator\") which couldn’t be handled using standard logic
 - Performance reports were only compiled biannually due to the manual data cleaning burden
 
-### 🎯 Project Aim
+### Project Aim
 
 - Introduce a logic-based categorisation system that standardises KPI performance across wards
 - Automate categorisation using Python to remove Excel dependency
 - Simulate the effect of performance drops or policy changes on KPI categorisation
 - Support ward-level improvement and accreditation readiness using scalable, auditable data pipelines
 
-This real NHS use case forms the basis of the categorisation and simulation tool submitted for the Band 7 Data Scientist interview.
+This real NHS use case forms the basis of the categorisation and simulation.
