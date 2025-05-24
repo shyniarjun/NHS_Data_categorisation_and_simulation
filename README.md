@@ -20,7 +20,7 @@ The solution was developed in response to inconsistent and manual KPI reporting 
 ### Documentation
 - [Background (Real NHS Problem)](docs/background.md)
 - [Methodology (Step-by-step logic)](docs/methodology.md)
-- [Simulation Insights](docs/insights.md)
+- [Simulation Insights](docs/Insights.md)
 - [Lessons Learned & Next Steps](docs/future_steps.md)
 
 ###  NHS Relevance
