@@ -1,0 +1,6 @@
+KPI_Name,Direction,Gold_Threshold,Silver_Max,Silver_Min,Bronze_Max,Bronze_Min,Manual_Flag
+Hand Hygiene Compliance,high,95,94,90,89,85,No
+Falls per 1000 Bed Days,low,0.0,0.001,1.0,1.001,2.0,No
+Record Keeping Compliance,high,95,94,90,89,85,No
+Violence and Aggression Incidents,low,0,5,15,16,25,No
+Concerns Logged,manual,,,,,,Yes
