@@ -44,15 +44,15 @@ This project addresses the need for consistent KPI categorisation and “what-if
 
 ### 7. Simulation 2: 3-Point Value Drop
 
-*Simulated a dip in service performance by applying a ±3 adjustment to KPI scores
+* Simulated a dip in service performance by applying a ±3 adjustment to KPI scores
 
-*Subtracted 3 from KPIs where higher values indicate better performance, and added 3 where lower values are better
+* Subtracted 3 from KPIs where higher values indicate better performance, and added 3 where lower values are better
 
-*Re-ran the categorisation logic to assess impact
+* Re-ran the categorisation logic to assess impact
 
-*Compared the original Assigned_Category with the new Simulated_Category
+* Compared the original Assigned_Category with the new Simulated_Category
 
-*Tracked which KPIs and wards experienced downgrades in category
+* Tracked which KPIs and wards experienced downgrades in category
 
 ### 8. Visualisation of Simulation Impact
 
