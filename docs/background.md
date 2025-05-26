@@ -1,6 +1,6 @@
 ## NHS Exemplar Accreditation Use Case
 
-This project originated within the NHS Exemplar Accreditation programme, where performance across 35 wards is assessed using KPIs under four pillars: Quality, Efficiency, Patient Experience, and Staff Experience.
+This project originated within the NHS Exemplar Accreditation programme, where performance across 35 wards is assessed using KPIs grouped under four pillars: Quality, Efficiency, Patient Experience, and Staff Experience.
 
 ### Problem Identified
 
@@ -17,4 +17,4 @@ This project originated within the NHS Exemplar Accreditation programme, where p
 - Simulate the effect of performance drops or policy changes on KPI categorisation
 - Support ward-level improvement and accreditation readiness using scalable, auditable data pipelines
 
-This real NHS use case forms the basis of the categorisation and simulation.
+These aims were driven by real workflow constraints, with no existing automation infrastructure in place.
