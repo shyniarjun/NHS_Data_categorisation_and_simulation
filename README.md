@@ -21,7 +21,7 @@ The solution was developed in response to inconsistent and manual KPI reporting 
 - [Background (Real NHS Problem)](docs/background.md)
 - [Methodology (Step-by-step logic)](docs/methodology.md)
 - [Simulation Insights](docs/Insights.md)
-- [Lessons Learned & Next Steps](docs/Lessons learned & Next steps.md)
+- [Lessons Learned & Next Steps](docs/Lessons_learned&Next_steps.md)
 
 ###  NHS Relevance
 This work supports ward performance evaluation, enables earlier detection of quality risks, and offers a scalable method to simulate policy shifts on service outcomes.
