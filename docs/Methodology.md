@@ -1,6 +1,6 @@
 ## Methodology
 
-This project addresses the need for consistent KPI performance categorisation and scenario modelling within the NHS Exemplar Accreditation programme. The workflow includes data merging, logic-driven categorisation, and simulation of policy or performance changes.
+This project addresses the need for consistent KPI categorisation and “what-if” scenario modelling within the NHS Exemplar Accreditation programme.
 
 ### 1. Data Loading and Validation
 
@@ -38,15 +38,21 @@ This project addresses the need for consistent KPI performance categorisation an
 
 ### 6. Simulation 1: Tightened Gold Threshold
 
-* Increased `Gold_Threshold` from 95 to 97 for 'high-direction' KPIs
+* Adjusted the Gold_Threshold from 95% to 97% to test the effect of stricter performance expectations.
 * Re-applied categorisation to observe sensitivity to stricter targets
 * Compared `Assigned_Category` vs `Simulated_Category` and calculated impact
 
 ### 7. Simulation 2: 3-Point Value Drop
 
-* Subtracted 3 from each KPI score to simulate a service dip
-* Re-ran classification and compared drop in category levels
-* Tracked which KPIs and wards were most affected
+*Simulated a dip in service performance by applying a ±3 adjustment to KPI scores
+
+*Subtracted 3 from KPIs where higher values indicate better performance, and added 3 where lower values are better
+
+*Re-ran the categorisation logic to assess impact
+
+*Compared the original Assigned_Category with the new Simulated_Category
+
+*Tracked which KPIs and wards experienced downgrades in category
 
 ### 8. Visualisation of Simulation Impact
 
